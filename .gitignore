@@ -13,4 +13,4 @@ vendor
 
 # OS Noise
 .DS_Store
-milhousecouk.bbprojectd/
+*.bbprojectd
