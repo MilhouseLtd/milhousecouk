@@ -1,5 +1,5 @@
+
 .bundle
-.DS_Store
 .sass-cache
 _gist_cache
 _code_cache
@@ -10,3 +10,7 @@ source.old
 source/_stash
 source/stylesheets/screen.css
 vendor
+
+# OS Noise
+.DS_Store
+milhousecouk.bbprojectd/
