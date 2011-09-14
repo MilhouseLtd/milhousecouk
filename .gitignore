@@ -14,3 +14,6 @@ vendor
 # OS Noise
 .DS_Store
 *.bbprojectd
+
+# Misc. files
+source/cv/CV-of-*
