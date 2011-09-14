@@ -5,13 +5,10 @@ comments: true
 sharing: true
 footer: true
 ---
-
     2048R/0AA2131C 2011-04-12
     Key fingerprint = 64DD 6F80 59E0 E764 00EE  EB28 E0B2 EBC9 0AA2 131C
     2048R/78A9DC72 2011-04-12
-
 ----
-
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.11 (Darwin)
     
